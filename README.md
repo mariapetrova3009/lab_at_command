@@ -47,5 +47,5 @@ echo "Hello, World!" > /example/hello.txt
 <Ctrl+D>
 ```
 
-После выполнения в указанное время файл `/tmp/greeting.txt` будет создан с содержимым `Hello, Welcome to OSTechNix!`.
+После выполнения в указанное время файл `/example/hello.txt` будет создан с содержимым `Hello, World!`.
 
