@@ -49,12 +49,9 @@ echo "Hello, World!" > /example/hello.txt
 
 После выполнения в указанное время файл `/example/hello.txt` будет создан с содержимым `Hello, World!`.
 
-```
-
 
 ### Задание
-
-###№ Создайте текстовый файл с именем `input.txt
+#### Создайте текстовый файл с именем `input.txt
 1. Добавьте в файл текст
    ```bash
    echo "This is the input file for the at task." > input.txt
