@@ -32,7 +32,7 @@ at 2:37 PM
 После этого вы можете ввести команды, которые нужно выполнить. Например:
 
 ```bash
-echo "Hello, Welcome to OSTechNix!" > /tmp/greeting.txt
+echo "Hello, World" > /example/hello.txt
 ```
 
 Чтобы сохранить запланированное задание и выйти из интерактивного окна, нажмите `Ctrl+D`.
@@ -43,7 +43,7 @@ echo "Hello, Welcome to OSTechNix!" > /tmp/greeting.txt
 
 ```bash
 at 2:37 PM
-echo "Hello, Welcome to OSTechNix!" > /tmp/greeting.txt
+echo "Hello, World!" > /example/hello.txt
 <Ctrl+D>
 ```
 
