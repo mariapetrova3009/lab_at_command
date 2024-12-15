@@ -113,7 +113,7 @@ echo "Hello, World!" > /example/hello.txt
    ```
 2. Проверьте выполнение этой задачи в указанное время, убедившись, что файл `/tmp/specific_task.txt` создан.
 
-ССылки на материалы:
+Ccылки на материалы:
 https://routerus.com/at-command-in-linux/
 
 
